@@ -134,9 +134,9 @@ JWT_REFRESH_SECRET="your_generated_refresh_secret_here"
 ENCRYPTION_KEY="your_generated_encryption_key_here"
 
 # Owner Account (set these before seeding!)
-OWNER_USERNAME=owner
-OWNER_EMAIL=owner@onesaas.de
-OWNER_PASSWORD=OneSaaS@2025
+OWNER_USERNAME=""
+OWNER_EMAIL=""
+OWNER_PASSWORD=""
 
 # Email Configuration (Gmail Example)
 EMAIL_HOST=smtp.gmail.com
