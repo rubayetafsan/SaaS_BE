@@ -1206,16 +1206,3 @@ stripe trigger checkout.session.completed
 - Prisma Documentation: https://www.prisma.io/docs
 - GraphQL Documentation: https://graphql.org/learn
 
----
-
-## License
-
-[Your License Here]
-
-## Contributing
-
-[Your Contributing Guidelines Here]
-
----
-
-**Made with ❤️ using Node.js, TypeScript, Prisma, GraphQL, and Stripe**
