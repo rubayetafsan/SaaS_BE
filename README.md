@@ -271,8 +271,8 @@ Server will start at:
 
 ```
 Owner Account:
-  Email: owner@onesaas.de (from .env)
-  Password: OneSaaS@2025 (from .env)
+  Email: "" (from .env)
+  Password: "" (from .env)
   Role: OWNER
 ```
 
@@ -525,7 +525,6 @@ mutation RefreshToken {
 }
 ```
 
-For detailed query examples, see [README2.md](./README2.md)
 
 ### REST API Endpoints
 
